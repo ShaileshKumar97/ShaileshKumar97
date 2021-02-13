@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Shailesh Kumar's github stats](https://github-readme-stats.vercel.app/api?username=ShaileshKumar97&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ShaileshKumar97/ShaileshKumar97)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshKumar97&langs_count=5)](https://github.com/ShaileshKumar97/ShaileshKumar97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshKumar97&langs_count=10)](https://github.com/ShaileshKumar97/ShaileshKumar97)
 
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0" alt="Recent Article 0">
