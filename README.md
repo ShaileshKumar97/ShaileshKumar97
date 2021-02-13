@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there. I'm Shailesh 👋
 
 <!--
 **ShaileshKumar97/ShaileshKumar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I love math, programming, data science, and books
+- 🔭 I’m currently working on OpenCV Projects
+- 🌱 I’m currently learning OpenCV
+- 📫 How to find me: 
+  - :bulb: [Medium articles](https://medium.com/@shailesh-kumar)
+  - :office: [LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b)
+
+[![Shailesh Kumar's github stats](https://github-readme-stats.vercel.app/api?username=ShaileshKumar97&count_private=true&show_icons=true&theme=radical&hide_rank=false)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshKumar97)](https://github.com/ShaileshKumar97/github-readme-stats)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0" alt="Recent Article 0">
