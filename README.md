@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0" alt="Recent Article 0">
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/anuraghazra/shaileshkumar97.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaileshkumar97&repo=shaileshkumar97.github.io&theme=material-palenight" />
 </a>
