@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shailesh-kumar/0" alt="Recent Article 0">
 
-<a href="https://github.com/shaileshkumar97.github.io">
+<a href="https://github.com/ShaileshKumar97/shaileshkumar97.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shaileshkumar97&repo=shaileshkumar97.github.io&theme=material-palenight" />
 </a>
