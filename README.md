@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - ⚡ I love math, programming, data science, and books
-- 🔭 I’m currently working on OpenCV Projects
-- 🌱 I’m currently learning OpenCV
+- 🔭 I’m currently working on Machine Learning Projects
+- 🌱 I’m currently revising Linear Algebra
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@shailesh-kumar)
   - :office: [LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b)
