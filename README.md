@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - ⚡ I love math, programming, data science, and books
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently revising Linear Algebra
+- 🔭 I’m currently working on Drift Detection, Explainable Machine Learning Models and Opensourcing a python package
+- 🌱 I’m currently revising OOPs Design Patterns
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@shailesh-kumar)
   - :office: [LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b)
