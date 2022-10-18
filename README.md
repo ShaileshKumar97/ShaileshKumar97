@@ -4,7 +4,8 @@ Hi there, I'm Shailesh Kumar 👋!
 
 - A Machine Learning Engineer based in **[India](https://en.wikipedia.org/wiki/India)**.
 - Working as **Applied Data Scientist** at **[Katonic AI](https://katonic.ai/)**.
-- I love math, programming, data science, and books
+- I love math, programming, data science, and books.
+- Creator of **[ExplainIt](https://github.com/katonic-dev/explainit)**, an opensource package for drift detection & data quality management.
 - Open Source Enthusiast.
 - See my portfolio at **[shaileshkumar97.github.io](https://shaileshkumar97.github.io/)**.
 
