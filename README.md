@@ -14,15 +14,15 @@ Hi there, I'm Shailesh Kumar 👋!
 - Writing `Python`, `SQL`, `HTML/CSS`, `PostgreSQL`, `MySQL`, `Redis` etc...
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b/)**.
-- Building currently Open Source Project: **[ExplainIt](https://github.com/katonic-dev/explainit)**.
+- Currently, building an Open Source Project: **[ExplainIt](https://github.com/katonic-dev/explainit)**.
 
 #### What are my skill sets?
 - 🎛 **Machine Learning Operations:**
 
   - **Language:** `Python` • `SQL`
-  - **Framework:** `Dash` • `FastAPI` • `Streamlit`
-  - **Databases:** `PostgreSQL` • `MySQL` • `Redis`
-  - **Concepts:** `Pipelines` • `Deployment` • `Model Monitoring` • `Drift Detection` • `Model Explainability`
+  - **Framework:** `Mlflow` • `Kubeflow` • `Elyra` • `Dash` • `FastAPI` • `Streamlit`
+  - **Databases:** `PostgreSQL` • `MySQL` • `Redis` • `Snowflake`
+  - **Concepts:** `Data Pipeline` • `Feature Store` • `Data Governance` • `Model Pipeline` • `Model Deployment` • `App Deployment` • `Model Monitoring` • `Drift Detection` • `Model Explainability`
 
 
 - 🧮 **Machine Learning:**
@@ -37,13 +37,13 @@ Hi there, I'm Shailesh Kumar 👋!
 - 🤖 **Deep Learning:**
 
   - **Language:** `Python`
-  - **Framework:** `PyTorch` • `Tensorflow` • `Keras` • `OpenCV`
+  - **Framework:** `PyTorch` • `Tensorflow` • `Keras` • `OpenCV` • `Librosa`
 
 
 - 🗄️ **Backend:**
 
   - **Language:** `Python`
-  - **Framework:** `FastAPI` • `Flask` • `Streamlit`
+  - **Framework:** `FastAPI` • `Flask` • `Streamlit`, `Dash`
   - **Databases:** `PostgreSQL` • `MySQL` • `AWS S3` • `Redis` • `SnowFlake`
   - **System Architecture:** `Monolithic` • `Modular`
   - **Protocol:** `REST`
@@ -51,7 +51,7 @@ Hi there, I'm Shailesh Kumar 👋!
 - 🖥 **Frontend:**
 
   - **Language:** `HTML` • `CSS` • `Python`
-  - **Framework/Library:** `Dash`
+  - **Framework/Library:** `Dash`, `Streamlit`
   - **Utils:** `Bootstrap` • `Modular CSS`
 
 - 🎡 **Ecosystem:**
