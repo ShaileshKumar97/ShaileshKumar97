@@ -24,6 +24,18 @@ Hi there, I'm Shailesh Kumar 👋!
   - **Databases:** `PostgreSQL` • `MySQL` • `Redis` • `Snowflake`
   - **Concepts:** `Data Pipeline` • `Feature Store` • `Data Governance` • `Model Pipeline` • `Model Deployment` • `App Deployment` • `Model Monitoring` • `Drift Detection` • `Model Explainability`
 
+- 👨‍💻 **Python Developer:**
+  - **Open Source Projects:**
+    - ***Explainit***: A modern enterprise-ready business intelligence web application SDK for Drift Detection, Monitoring & Data Quality Management.
+
+  - **In-House SDK:** *(for [katonic.ai](https://katonic.ai/))*
+    - ***Feature Store***: Created from scratch to manage end-to-end life-cycle of features & integrate with existing data stores, feature pipelines, data governance, and ML platforms.
+    - ***Connectors***: To access the data from different databases/warehouses and stores to a given destination.
+    - ***FileManager***: To access, store and update/manipulate objects within the katonic file browser.
+    - ***Pipeline***: To convert an existing notebook into a Kubeflow pipeline.
+    - ***AutoML***: To build, Train & Log different Machine Learning, Deep Learning models.
+    - ***Model Explainability***: To detect, monitor the drifts & quality in the Batch and Production data.
+    - ***Log***: To quick register the trained models with mlflow in platform for deployment to the production environment.
 
 - 🧮 **Machine Learning:**
 
