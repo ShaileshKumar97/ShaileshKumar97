@@ -34,7 +34,6 @@ Hi there, I'm Shailesh Kumar 👋!
     - ***FileManager***: To access, store and update/manipulate objects within the katonic file browser.
     - ***Pipeline***: To convert an existing notebook into a Kubeflow pipeline.
     - ***AutoML***: To build, Train & Log different Machine Learning, Deep Learning models.
-    - ***Model Explainability***: To detect, monitor the drifts & quality in the Batch and Production data.
     - ***Log***: To quick register the trained models with mlflow in platform for deployment to the production environment.
 
 - 🧮 **Machine Learning:**
