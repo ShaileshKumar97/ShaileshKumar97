@@ -17,7 +17,7 @@ Hi there, I'm Shailesh Kumar 👋!
 - Currently, building an Open Source Project: **[ExplainIt](https://github.com/katonic-dev/explainit)**.
 
 #### What are my skill sets?
-- 🎛 **Machine Learning Operations:**
+- 🎛 **Machine Learning Operations (MLOps):**
 
   - **Language:** `Python` • `SQL`
   - **Framework:** `Mlflow` • `Kubeflow` • `Elyra` • `Dash` • `FastAPI` • `Streamlit`
