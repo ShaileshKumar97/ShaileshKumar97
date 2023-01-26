@@ -14,7 +14,7 @@ Hi there, I'm Shailesh Kumar 👋!
 - Writing `Python`, `SQL`, `HTML/CSS`, `PostgreSQL`, `MySQL`, `Redis` etc...
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b/)**.
-- Currently, building an Open Source Project: **[ExplainIt](https://github.com/katonic-dev/explainit)**.
+- Currently, building end-to-end production pipeline for processing short videos with different usecases.
 
 #### What are my skill sets?
 - 🎛 **Machine Learning Operations (MLOps):**
