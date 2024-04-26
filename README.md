@@ -2,8 +2,8 @@ Hi there, I'm Shailesh Kumar 👋!
 
 #### Who I am?
 
-- A Machine Learning Engineer based in **[India](https://en.wikipedia.org/wiki/India)**.
-- Working as **Applied Data Scientist** at **[Katonic AI](https://katonic.ai/)**.
+- A Machine Learning / GenAI Engineer based in **[India](https://en.wikipedia.org/wiki/India)**.
+- Working as **Lead Data Scientist** at **[Katonic AI](https://katonic.ai/)**.
 - I love math, programming, data science, and books.
 - Creator of **[ExplainIt](https://github.com/katonic-dev/explainit)**, an opensource package for drift detection & data quality management.
 - Open Source Enthusiast.
@@ -14,7 +14,8 @@ Hi there, I'm Shailesh Kumar 👋!
 - Writing `Python`, `SQL`, `HTML/CSS`, `PostgreSQL`, `MySQL`, `Redis` etc...
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/shailesh-kumar-2171a814b/)**.
-- Currently, building end-to-end production pipeline for processing short videos with different usecases.
+- Currently, building end-to-end production ready generative ai assistants/agents to handle different types of knowledge base for variety of usecases.
+- Previously, built an end-to-end production pipeline for processing short videos with different usecases.
 
 #### What are my skill sets?
 - 🎛 **Machine Learning Operations (MLOps):**
